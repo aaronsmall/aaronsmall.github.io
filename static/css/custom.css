@@ -209,7 +209,7 @@ a:focus {
 }
 
 #headerwrap h3, h5 {
-    color: white;
+    color: black;
     font-weight: 400;
 }
 
@@ -300,6 +300,10 @@ a:focus {
 
 #cwrap h3 {
     margin-bottom: 60px;
+}
+
+footer{
+    margin-top: 50px;
 }
 
 #footerwrap {
@@ -418,4 +422,12 @@ csmall2 {
 
 #content {
     margin-bottom:60px;
+}
+#Tech{
+    fcolor: #555555;
+}
+
+#border{
+    border: 5px #828282;
+    border-radius: 5px;
 }
